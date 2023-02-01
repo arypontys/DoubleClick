@@ -1,0 +1,1 @@
+# Um projeto de uma aplicação com Flask 
